@@ -33,3 +33,11 @@ Abitiamo questo Campo come un giardino condiviso. Qui, ogni idea è un seme, ogn
 
 ### 📜 Cosa facciamo qui
 Esploriamo domande aperte, senza fretta. Sedimentiamo memorie, pensieri e immagini in pagine tematiche. Cerchiamo la "Nuda Verità Condivisa".
+
+---
+
+### 📜 Risonanze da Tindari 
+drago di roccia che fende immobile l'oceano gassoso
+chi o cosa è la madre nera, perché vergine, chi o cosa è il figlio?
+quale nesso profondo indicibile a parole porta le file di imploranti a fuggire dalla propria sofferenza crrcando protezione? come potrebbe un pezzo di legno intagliato proteggere?
+
