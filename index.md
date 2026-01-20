@@ -24,8 +24,7 @@ Abitiamo questo Campo come un giardino condiviso. Qui, ogni idea è un seme, ogn
 ---
 
 ### 🖼️ Visioni dal Campo
-![L'Icona del Sogno](NOME_DEL_TUO_FILE_IMMAGINE.jpg)
-*(Assicurati di rinominare il file nel repo o cambiare questa riga)*
+![L'Icona del Sogno](Gemini_Generated_Image_2uom0l2uom0l2uom.png)
 
 ---
 
