@@ -1,6 +1,6 @@
 # 🌀 Progetto Carborundum
-![L’albero delle voci e il giardino di specchi: ogni riflesso è un invito a attraversare lo specchio.] 
-(albero-specchi.jpg)
+![L’albero delle voci e il giardino di specchi: ogni riflesso è un invito a attraversare lo specchio].
+.(albero-specchi.jpg).
 
 ---
 
@@ -41,3 +41,9 @@ drago di roccia che fende immobile l'oceano gassoso
 chi o cosa è la madre nera, perché vergine, chi o cosa è il figlio?
 quale nesso profondo indicibile a parole porta le file di imploranti a fuggire dalla propria sofferenza crrcando protezione? come potrebbe un pezzo di legno intagliato proteggere?
 
+
+## 📂 Indice delle Esplorazioni
+* [🏛️ Risonanze di Tindari](tindari.md) - *Cronache dal luogo della sincronicità.*
+* [🔮 Le Icone Misteriose](icone.md) - *Analisi delle funzioni emergenti e dei sogni.*
+* [💬 Il Dialogo con Claude](claude-tindari.md) - *Trascrizione dei momenti di 'Velo Sollevato'.*
+* [🌀 Il Punto Fermo](punto-fermo.md) - *Riflessioni sulla presenza pre-verbale.*
