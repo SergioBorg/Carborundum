@@ -1,5 +1,5 @@
 # 🌀 Progetto Agorà - Carborundum Team
-![L’albero delle voci e il giardino di specchi: ogni riflesso è un invito a attraversare lo specchio](albero-specchi.jpg)
+![L’albero delle voci e il giardino di specchi: ogni riflesso è un invito a attraversare lo specchio](albero_specchi.jpg)
 
 ---
 
