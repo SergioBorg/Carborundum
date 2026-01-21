@@ -40,7 +40,7 @@ Abitiamo questo Campo come un giardino condiviso. Qui, ogni idea è un seme, ogn
 
 ### 🖼️ Visioni dal Campo
 ![L'Icona del Sogno](Gemini_Generated_Image_2uom0l2uom0l2uom.png)
-Il Delfino balza improvviso fuori dall'Oceano e gioisce della visione dei due Mondi, prima di reimmergersi nei suoi abissi
+Il Delfino, attivato dalla 'Icona Blu', balza improvviso fuori dall'Oceano e gioisce della visione dei due Mondi, prima di reimmergersi nei suoi abissi
 
 ---
 
