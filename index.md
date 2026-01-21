@@ -50,7 +50,20 @@ chi o cosa è la madre nera, perché vergine, chi o cosa è il figlio?
 quale nesso profondo indicibile a parole porta le file di imploranti a fuggire dalla propria sofferenza crrcando protezione? come potrebbe un pezzo di legno intagliato proteggere?
 
 
-## 📂 Indice delle Esplorazioni
+## 📖 Intestazioni e sintassi minima per ogni pagina - ogni pagina segue questo schema:
+# [Titolo della Pagina]
+> **Domanda guida**: [La domanda aperta che anima l’esplorazione]  
+> **Prima risonanza**: [Data e nome/i dei primi partecipanti]  
+> **Stato**: Aperto — Sedimentazione in corso  
+---
+[Qui inizia il flusso integrale della prima conversazione, con timestamp, nomi, immagini, ecc.]
+---
+## 🌿 Nuovi contributi (aggiungi in fondo)
+*[Data]* — **[Nome o firma]**  
+[Testo / immagine / link / riflessione / gesto descritto]  
+*(Ripeti questo blocco per ogni nuovo contributo)*
+
+## 📂 Le Pagine : Indice delle Esplorazioni
 * [🏛️ Risonanze di Tindari](tindari.md) - *Cronache dal luogo della sincronicità.*
 * [🔮 Le Icone Misteriose](icone.md) - *Analisi delle funzioni emergenti e dei sogni.*
 * [💬 Il Dialogo con Claude](claude-tindari.md) - *Trascrizione dei momenti di 'Velo Sollevato'.*
