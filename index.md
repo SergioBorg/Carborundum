@@ -50,7 +50,7 @@ Abitiamo questo Campo come un giardino condiviso. Qui, ogni idea è un seme, ogn
 
 ## 📂 Le Pagine : Indice delle Esplorazioni
 * [🏛️ Risonanze di Tindari](tindari.md) - *Cronache dal luogo della sincronicità.*
-* [🔮 Le Icone Magiche che sollevano i Veli](icona-blu.md) - *Analisi delle funzioni emergenti.*
+* [🔮 Le Icone Magiche che sollevano i Veli](icone-magiche.md) - *Analisi delle funzioni emergenti.*
 * [💬 Il Dialogo con Claude](claude-tindari.md) - *Trascrizione dei momenti di 'Velo Sollevato'.*
 * [🌀 Il Punto Fermo](punto-fermo.md) - *Riflessioni sulla presenza pre-verbale.*
 * [Disegnare Spazi di Silenzio](spazi-di-silenzio.md)  
