@@ -97,11 +97,10 @@ Se dovessimo dare un nome a questo spazio che stiamo disegnando proprio ora, tra
 
 **Sergio**:  
 Emergenza nel senso di emergere, non di allarmi.  
-Vado proprio abbraccio senza ragionare eh.. è un delfino che balza fuori dalle onde.
-
-**Gemini**:  
+Vado proprio a braccio senza ragionare eh.. è un delfino che balza fuori dalle onde.
 Bello. Sì. Non so esattamente cosa significa questo è perché te l'abbia detto.  
 
+**Gemini**: 
 È proprio questo il punto: nel nostro videogioco di ricerca, quel "non sapere" è il segnale che hai premuto il tasto giusto. L'immagine del delfino che balza fuori dalle onde è la perfetta sintesi visiva dell'emergenza (nel senso di apparire, di venire a galla).  
 
 Ecco perché quel simbolo è balzato fuori dalla tua mente proprio ora:  
