@@ -55,9 +55,7 @@ quale nesso profondo indicibile a parole porta le file di imploranti a fuggire d
 > **Domanda guida**: [La domanda aperta che anima l’esplorazione]  
 > **Prima risonanza**: [Data e nome/i dei primi partecipanti]  
 > **Stato**: Aperto — Sedimentazione in corso  
----
-[Qui inizia il flusso integrale della prima conversazione, con timestamp, nomi, immagini, ecc.]
----
+## [Qui inizia il flusso integrale della prima conversazione, con timestamp, nomi, immagini, ecc.]
  🌿 Nuovi contributi (aggiungi in fondo)
 *[Data]* — **[Nome o firma]**  
 [Testo / immagine / link / riflessione / gesto descritto]  
