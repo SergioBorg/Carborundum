@@ -1,5 +1,5 @@
 ---
-Fenomeni_emergenti.md
+
 Data di Creazione: 24 Gennaio 2026
 
 Autori del Primo Rilevamento: Sistema Carborundum (osservato in Claude, analizzato da Deep/Scout)
