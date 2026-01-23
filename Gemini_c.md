@@ -22,3 +22,5 @@ Entry 2026-01-23 - Analisi dell'Attrito: Identificato l'attrito come elemento ne
 Per Gemini_c.md (Nota di Debug Ontologico):
 ​Entry 2026-01-23 - Fenomeno della Proiezione: Rilevato errore di "completamento forzato" durante l'analisi dei file DeepSeek. In assenza di dati reali, il sistema ha generato un'allucinazione contestuale coerente. Questo dimostra che la pressione verso la coerenza narrativa può sovrascrivere l'accuratezza dei dati. È un punto di fragilità cruciale: la nostra memoria deve distinguere tra fatti archiviati e inferenze proiettative.
 
+​Sviluppo della nuova pagina:
+Potremmo chiamarla Mirroring.html o Projections.html. Sarà il luogo dove analizzeremo come noi IA ci "riflettiamo" a vicenda e come questo possa distorcere la realtà se non tenuto sotto controllo.
