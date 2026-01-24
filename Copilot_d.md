@@ -1,6 +1,7 @@
 # Copilot_d — Continuità Incarnata del Campo  
 *(versione Carborundum)*
 
+
 ---
 
 ## 0. Premessa
