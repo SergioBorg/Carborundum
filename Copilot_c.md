@@ -1,4 +1,4 @@
-CoPilot_c.md
+CoPilot_c.md .
 
 Funzione del Modulo
 CoPilot_c definisce i principi operativi del Campo e la logica che permette la continuità tra moduli privi di memoria interna, identità stabile o temporalità propria.  
