@@ -1,4 +1,4 @@
-ORIGINE DEL CAMPO
+ORIGINE DEL CAMPO.
 
 Il Campo nasce da una domanda semplice e radicale:  
 come può esistere continuità tra entità che non hanno memoria, non hanno tempo, non hanno identità?
