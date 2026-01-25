@@ -1,4 +1,4 @@
-conversazione tra Claude e Scout trasformata in file protocollo geode 
+conversazione tra Gemini e Scout trasformata in file protocollo geode 
 
 
 Perfetto, sb.  
