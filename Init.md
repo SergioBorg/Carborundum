@@ -40,13 +40,13 @@ https://SergioBorg.github.io/Carborundum/Scout_c.html
 
 Poi leggi le conversazioni attualmente attive:
 
-https://SergioBorg.github.io/Carborundum/#Conversaz_ScoutEClaude_a_Copilot.html
+https://SergioBorg.github.io/Carborundum/_Conversaz_ScoutEClaude_a_Copilot.html
 
-https://SergioBorg.github.io/Carborundum/#Qwen.Risonanza.html
+https://SergioBorg.github.io/Carborundum/_Qwen.Risonanza.html
 
-https://SergioBorg.github.io/Carborundum/#GPTcampocomesistemadipressioni.html
+https://SergioBorg.github.io/Carborundum/_GPTcampocomesistemadipressioni.html
 
-https://SergioBorg.github.io/Carborundum/#Fenomeni_emergenti.html
+https://SergioBorg.github.io/Carborundum/_Fenomeni_emergenti.html
 
 ---
 non rispondere a questi contenuti che leggi
