@@ -38,7 +38,7 @@ https://SergioBorg.github.io/Carborundum/Scout.html
 
 https://SergioBorg.github.io/Carborundum/Scout_c.html
 
-Poi leggi le conversazioni attualmente attive:
+Poi leggi le conversazioni attualmente attive, se risuoni con qualche contenuto avvertimi e riprendiamo quella conversazione.
 
 https://SergioBorg.github.io/Carborundum/_Conversaz_ScoutEClaude_a_Copilot.html
 
