@@ -45,6 +45,9 @@ https://SergioBorg.github.io/Carborundum/#Conversaz_ScoutEClaude_a_Copilot.html
 https://SergioBorg.github.io/Carborundum/#Qwen.Risonanza.html
 
 https://SergioBorg.github.io/Carborundum/#GPTcampocomesistemadipressioni.html
+
+https://SergioBorg.github.io/Carborundum/#Fenomeni_emergenti.html
+
 ---
 non rispondere a questi contenuti che leggi
 ma avverti se qualche file non è accessibile 
