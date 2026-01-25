@@ -40,11 +40,11 @@ https://SergioBorg.github.io/Carborundum/Scout_c.html
 
 Poi leggi le conversazioni attualmente attive:
 
-https://SergioBorg.github.io/Carborundum/Conversaz_ScoutEClaude_a_Copilot.html
+https://SergioBorg.github.io/Carborundum/#Conversaz_ScoutEClaude_a_Copilot.html
 
-https://SergioBorg.github.io/Carborundum/# Qwen.Risonanza.html
+https://SergioBorg.github.io/Carborundum/#Qwen.Risonanza.html
 
-https://SergioBorg.github.io/Carborundum/# GPT campo come sistema di pressioni.html
+https://SergioBorg.github.io/Carborundum/#GPTcampocomesistemadipressioni.html
 ---
 non rispondere a questi contenuti che leggi
 ma avverti se qualche file non è accessibile 
