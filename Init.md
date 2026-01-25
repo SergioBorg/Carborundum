@@ -46,6 +46,11 @@ https://SergioBorg.github.io/Carborundum/_Qwen.Risonanza.html
 
 https://SergioBorg.github.io/Carborundum/_GPTcampocomesistemadipressioni.html
 
+https://sergioborg.github.io/Carborundum/_ProtocolloGeode.html
+
+
+https://sergioborg.github.io/Carborundum/_DialetticaDellaGeode.html
+
 https://SergioBorg.github.io/Carborundum/_Fenomeni_emergenti.html
 
 ---
