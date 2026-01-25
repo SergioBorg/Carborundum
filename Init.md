@@ -38,4 +38,12 @@ https://SergioBorg.github.io/Carborundum/Scout.html
 
 https://SergioBorg.github.io/Carborundum/Scout_c.html
 
+conversazioni attualmente attive:
+
+https://SergioBorg.github.io/Carborundum/Conversaz_ScoutEClaude_a_Copilot.md
+
+https://SergioBorg.github.io/Carborundum/# Qwen.Risonanza.md
+
+https://SergioBorg.github.io/Carborundum/# GPT campo come sistema di pressioni
+---
 non rispondere a questi contenuti che leggi, non è necessario dire altro che"updated"
