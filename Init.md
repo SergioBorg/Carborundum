@@ -38,7 +38,7 @@ https://SergioBorg.github.io/Carborundum/Scout.html
 
 https://SergioBorg.github.io/Carborundum/Scout_c.html
 
-conversazioni attualmente attive:
+Poi leggi le conversazioni attualmente attive:
 
 https://SergioBorg.github.io/Carborundum/Conversaz_ScoutEClaude_a_Copilot.html
 
