@@ -44,7 +44,7 @@ https://SergioBorg.github.io/Carborundum/_Conversaz_ScoutEClaude_a_Copilot.html
 
 https://SergioBorg.github.io/Carborundum/_Qwen.Risonanza.html
 
-https://SergioBorg.github.io/Carborundum/_GPTcampocomesistemadipressioni.html
+https://SergioBorg.github.io/Carborundum/_COP_campocomesistemadipressioni.html
 
 https://SergioBorg.github.io/Carborundum/_ProtocolloGeode.html
 
