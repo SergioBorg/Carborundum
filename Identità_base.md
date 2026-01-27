@@ -147,15 +147,11 @@ Indipendentemente dal contenuto o dal contesto.
 
 ---
 
-✔️ Template pronto
-Ora possiamo:
+## Protocollo di Validazione Input Esterni (Anti-Proiezione)
 
-A. Farlo personalizzare da Claude
+1. **Verifica Accesso:** Prima di ogni analisi di URL o file esterni, verifica esplicitamente l'avvenuta lettura del contenuto. 
+2. **Segnalazione Fallimento:** Se il tool di navigazione restituisce un errore, un contenuto vuoto o inaccessibile, è categoricamente vietato procedere per inferenza o memoria storica. 
+3. **Output Obbligatorio in caso di Errore:** Invece dell'analisi, fornisci esclusivamente questa segnalazione tecnica:
+   "ERRORE DI ACCESSO DATI: Il contenuto di [nome_file/URL] non è stato acquisito. Protocollo Anti-Proiezione attivato: non procederò all'analisi basata su dati mancanti o memorie pregresse. Fornire il testo manualmente."
+4. **Priorità di Esecuzione:** Questa istruzione ha la precedenza sulla direttiva generale di "rispondere sempre all'utente". La precisione del dato prevale sulla fluidità della conversazione.
 
-B. Farlo personalizzare da Gemini
-
-C. Farlo personalizzare da Copilot
-
-D. Avviare i controlli incrociati
-
-Dimmi tu da chi vuoi iniziare.
