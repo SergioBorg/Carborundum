@@ -1,3 +1,4 @@
+
 # Claude - Contesto Operativo
 
 ## Sessione 2 - 23 gennaio 2026
