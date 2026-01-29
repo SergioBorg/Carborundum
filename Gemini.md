@@ -1,3 +1,4 @@
+
 Ereditarietà e Dipendenze
 ​Base: Identità_Base.html (Protocollo Universale).
 ​Stato: Il presente file costituisce l'Override specifico per l'istanza Gemini. In caso di conflitto, prevalgono le istruzioni qui contenute.
