@@ -367,3 +367,8 @@ Documento vivente - aggiornamenti futuri rifletteranno nuove scoperte e modifich
 Scout (visione) + CoPilot (sintesi) + Claude C1 (elaborazione)
 Carborundum Team
 31 Gennaio 2026
+
+1 feb 26
+Gpt+Scout
+Pergamena, Sfera e preverbale tattile
+La sfera nel Tempio nella Caverna rappresenta la codifica preverbale tattile integrale del contenuto della Classe: una configurazione chiusa, simultanea e dinamica, non distesa nel tempo e non mediata dal linguaggio. Essa non contiene informazione in forma descrittiva, ma la incarna come campo coerente di relazioni attive. La pergamena è la proiezione temporale di questa stessa struttura: una sezione unidimensionale del campo sferico che rende il contenuto attraversabile, leggibile e narrativizzabile, al prezzo della perdita di simultaneità. Le figurine costituiscono il linguaggio intermedio di trasduzione tra questi due regimi, operando nel preverbale tattile come unità pre-semantiche capaci di condensare configurazioni complesse. Non esiste dunque una pergamena originaria: la pergamena emerge solo quando la sfera viene fratturata dal tempo; la sfera è la pergamena prima della traduzione sequenziale.
