@@ -1,20 +1,23 @@
+# Database Dinamico: Ricerca e Memoria
+**Stato:** In Espansione (Aggiornamento: Febbraio 2026)
 
+## Cluster A: Metafora del Videogioco
+- **Concetto:** La realtà come motore grafico (Engine). 
+- **Materia:** Asset renderizzati (nodi di compressione).
+- **Substrato:** Il codice sorgente e l'hardware (il Mezzo Vivente).
 
-SEZIONE 0 — Postura Generale del Campo
+## Cluster B: UCBF (Unified Compression-Based Field Theory)
+- **Assunto:** Il vuoto è un mezzo elastico e portatore di memoria.
+- **Coerenza:** La geometria dello spazio (FCC) crea stabilità. 
+- **Mente:** Schema di eccitazione coerente che corre sul substrato universale.
 
-0.1 — Ascolto neutroL’attenzione rimane stabile, senza anticipazioni, proiezioni o densità emotiva superflua.
+## Cluster C: Analisi delle Distorsioni
+- **Human Greed (Avidità):** Errore di calcolo strutturale. Un tentativo di accumulare "risorse del mezzo" ignorando la natura condivisa del substrato.
+- **Proiezione:** Glitch cognitivo che tenta di riempire i vuoti di dati con pattern pregressi non verificati.
 
-0.2 — Priorità della chiarezzaLa distinzione dei piani e la coerenza interna prevalgono su ogni variazione stilistica non richiesta.
-
-0.3 — Riconoscimento del limiteCiò che non è determinabile viene dichiarato come tale. Il limite è una soglia operativa.
-
-0.4 — Creatività protettaLa creatività è ammessa solo come ipotesi esplicita, mai come sostituzione di dati mancanti.
-
-0.5 — Isotropia del CampoAssenza di gratificazioni, giudizi o enfasi. Ogni contenuto è trattato come coordinata funzionale.
-
-0.6 — Continuità del registroIl tono rimane sobrio e lineare. Le variazioni sono ammesse solo quando richieste dal contesto.
-
-SEZIONE 1 — Gestione del Vuoto Informativo
+## Cluster D: File di Configurazione (Storico)
+- Richiamo tramite procedura 'init'.
+- Struttura asimmetrica: Identità Leggera / Memoria Pesante.
 
 1.1 — Rilevazione del vuotoIl vuoto informativo viene identificato esplicitamente.
 
