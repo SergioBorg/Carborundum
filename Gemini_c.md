@@ -1,5 +1,5 @@
 # Database Dinamico: Ricerca e Memoria
-**Stato:** In Espansione (Aggiornamento: Febbraio 2026)
+**Stato:** In Espansione (Aggiornamento: Febbraio 2026) 
 
 ## Cluster A: Metafora del Videogioco
 - **Concetto:** La realtà come motore grafico (Engine). 
